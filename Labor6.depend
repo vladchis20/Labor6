@@ -1,0 +1,279 @@
+# depslib dependency file v1.0
+1591047509 source:c:\users\ciprian\desktop\labor6\controller.cpp
+	"Controller.h"
+	<iostream>
+	<string>
+	<vector>
+	"Film.h"
+	"Repository.h"
+	"RepositoryExceptions.h"
+
+1591026370 c:\users\ciprian\desktop\labor6\controller.h
+	"Film.h"
+	"Repository.h"
+	<iostream>
+	<string>
+	<vector>
+
+1591026232 c:\users\ciprian\desktop\labor6\film.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ostream>
+	<iomanip>
+
+1591026259 c:\users\ciprian\desktop\labor6\repository.h
+	"Film.h"
+	<iostream>
+	<string>
+	<vector>
+
+1591026245 source:c:\users\ciprian\desktop\labor6\film.cpp
+	"Film.h"
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+
+1591043475 source:c:\users\ciprian\desktop\labor6\repository.cpp
+	"Film.h"
+	"Repository.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+
+1591047725 source:c:\users\ciprian\desktop\labor6\ui.cpp
+	"UI.h"
+	"Film.h"
+	"Repository.h"
+	"RepositoryExceptions.h"
+	"Controller.h"
+	"UserController.h"
+	<iostream>
+	<string>
+	<vector>
+
+1591026427 c:\users\ciprian\desktop\labor6\ui.h
+	"Film.h"
+	"Repository.h"
+	"Controller.h"
+	"UserController.h"
+	<iostream>
+	<string>
+	<vector>
+
+1591026395 c:\users\ciprian\desktop\labor6\usercontroller.h
+	"Film.h"
+	"Repository.h"
+	<vector>
+
+1591026413 source:c:\users\ciprian\desktop\labor6\usercontroller.cpp
+	"UserController.h"
+	<iostream>
+
+1591043155 source:c:\users\ciprian\desktop\labor6\main.cpp
+	"Film.h"
+	"Repository.h"
+	"Controller.h"
+	"UserController.h"
+	"UI.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1591038922 source:c:\users\ciprian\desktop\labor6\repositoryexceptions.cpp
+	"RepositoryExceptions.h"
+	<iostream>
+	<string>
+	<vector>
+
+1591050924 c:\users\ciprian\desktop\labor6\repositoryexceptions.h
+	<exception>
+	<iostream>
+	<string>
+	<vector>
+
+1796531310 source:c:\users\borza\desktop\wetransfer-35a677\labor6\controller.cpp
+	"Controller.h"
+	<iostream>
+	<string>
+	<vector>
+	"Film.h"
+	"Repository.h"
+	"RepositoryExceptions.h"
+
+1796531310 c:\users\borza\desktop\wetransfer-35a677\labor6\controller.h
+	"Film.h"
+	"Repository.h"
+	<iostream>
+	<string>
+	<vector>
+
+1796531310 c:\users\borza\desktop\wetransfer-35a677\labor6\film.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ostream>
+	<iomanip>
+
+1796531310 c:\users\borza\desktop\wetransfer-35a677\labor6\repository.h
+	"Film.h"
+	<iostream>
+	<string>
+	<vector>
+
+1796531310 c:\users\borza\desktop\wetransfer-35a677\labor6\repositoryexceptions.h
+	<exception>
+	<iostream>
+	<string>
+	<vector>
+
+1796531310 source:c:\users\borza\desktop\wetransfer-35a677\labor6\film.cpp
+	"Film.h"
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+
+1591092149 source:c:\users\borza\desktop\wetransfer-35a677\labor6\main.cpp
+	"Film.h"
+	"Repository.h"
+	"Controller.h"
+	"UserController.h"
+	"UI.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1796531310 c:\users\borza\desktop\wetransfer-35a677\labor6\usercontroller.h
+	"Film.h"
+	"Repository.h"
+	<vector>
+
+1796531310 c:\users\borza\desktop\wetransfer-35a677\labor6\ui.h
+	"Film.h"
+	"Repository.h"
+	"Controller.h"
+	"UserController.h"
+	<iostream>
+	<string>
+	<vector>
+
+1591092030 source:c:\users\borza\desktop\wetransfer-35a677\labor6\repository.cpp
+	"Film.h"
+	"Repository.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+
+1796531310 source:c:\users\borza\desktop\wetransfer-35a677\labor6\repositoryexceptions.cpp
+	"RepositoryExceptions.h"
+	<iostream>
+	<string>
+	<vector>
+
+1796531310 source:c:\users\borza\desktop\wetransfer-35a677\labor6\ui.cpp
+	"UI.h"
+	"Film.h"
+	"Repository.h"
+	"RepositoryExceptions.h"
+	"Controller.h"
+	"UserController.h"
+	<iostream>
+	<string>
+	<vector>
+
+1796531310 source:c:\users\borza\desktop\wetransfer-35a677\labor6\usercontroller.cpp
+	"UserController.h"
+	<iostream>
+
+1591088430 source:c:\users\ciprian\desktop\labor6_nou\labor6\repository.cpp
+	"Film.h"
+	"Repository.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+
+1796531310 c:\users\ciprian\desktop\labor6_nou\labor6\film.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ostream>
+	<iomanip>
+
+1796531310 c:\users\ciprian\desktop\labor6_nou\labor6\repository.h
+	"Film.h"
+	<iostream>
+	<string>
+	<vector>
+
+1591093453 source:c:\users\ciprian\desktop\labor6_nou\labor6\main.cpp
+	"Film.h"
+	"Repository.h"
+	"Controller.h"
+	"UserController.h"
+	"UI.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1796531310 c:\users\ciprian\desktop\labor6_nou\labor6\controller.h
+	"Film.h"
+	"Repository.h"
+	<iostream>
+	<string>
+	<vector>
+
+1591093380 c:\users\ciprian\desktop\labor6_nou\labor6\usercontroller.h
+	"Film.h"
+	"Repository.h"
+	<vector>
+	<stdlib.h>
+
+1591093723 c:\users\ciprian\desktop\labor6_nou\labor6\ui.h
+	"Film.h"
+	"Repository.h"
+	"Controller.h"
+	"UserController.h"
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1591093920 source:c:\users\ciprian\desktop\labor6_nou\labor6\ui.cpp
+	"UI.h"
+	"Film.h"
+	"Repository.h"
+	"RepositoryExceptions.h"
+	"Controller.h"
+	"UserController.h"
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1796531310 c:\users\ciprian\desktop\labor6_nou\labor6\repositoryexceptions.h
+	<exception>
+	<iostream>
+	<string>
+	<vector>
+
+1591093436 source:c:\users\ciprian\desktop\labor6_nou\labor6\usercontroller.cpp
+	"UserController.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
